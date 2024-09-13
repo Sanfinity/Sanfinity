@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Santhosh Kumar J</h1>
+<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Santhosh AKA Sanfinity</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanfinity&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Half-stack Developer
